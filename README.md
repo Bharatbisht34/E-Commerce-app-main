@@ -1,0 +1,1 @@
+An e-commerce platform for phone retail built with Spring Boot microservices, Angular.
